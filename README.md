@@ -21,4 +21,4 @@
 ## Author
 
 - Github - [Ali Bakır](https://github.com/ali-bakir)
-- Linkedin - [Ali BakırE](https://www.linkedin.com/in/ali-bakir/)
+- Linkedin - [Ali Bakır](https://www.linkedin.com/in/ali-bakir/)
