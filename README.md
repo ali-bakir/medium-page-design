@@ -3,12 +3,11 @@
 
 * JavaScript language is used. CSS and HTML were used.
 
-* 
-The web page was created with the help of Boostrap. <a href="hhttps://getbootstrap.com/" target="_blank">Boostrap</a>. 
+* The web page was created with the help <a href="hhttps://getbootstrap.com/" target="_blank">Boostrap</a>. 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](img/medium.png)
 
 
 ## My process
