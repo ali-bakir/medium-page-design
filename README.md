@@ -7,7 +7,7 @@
 
 ### Screenshot
 
-![](img/medium.png)
+![](img/medium1.png)
 
 
 ## My process
